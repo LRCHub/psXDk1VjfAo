@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "GOTCHA (Baddest Eros)",
+  "base_artist": "IVE",
+  "createdAt": "2026-03-22T18:07:22.600382Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "GOTCHA (Baddest Eros)",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/01_GOTCHA_(Baddest_Eros)_IVE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "GOTCHA (Baddest Eros)",
+      "artist": "IVE (아이브)",
+      "has_synced": true,
+      "path": "select/02_GOTCHA_(Baddest_Eros)_IVE_(아이브).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GOTCHA (Baddest Eros)",
+      "artist": "IVE",
+      "has_synced": false,
+      "path": "select/pl_01_GOTCHA_(Baddest_Eros)_IVE.txt"
+    }
+  ]
+}
